@@ -1,0 +1,194 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*************** main**************/
+main{
+    background: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 750px;
+}
+
+
+  .text{
+      font-size: 30px;
+  }
+
+  .d3{
+      min-height: 750px;
+  }
+
+  .ph1{
+      width:900px !important;
+      height:60px !important;
+      line-height: 35px!important;
+      font-size: 20px!important;
+      
+  }
+
+  .m1{
+      margin-left: 220px!important;
+  }
+
+
+  .w1{
+      width: 200px;
+      min-height:50px;
+      
+    
+  }
+
+  
+  .w1:hover{
+    background:rgba(249, 139, 104, 0.6) !important;
+  }
+
+  .w2{
+      max-height:700px;
+  }
+
+  .i2{
+     text-align: center;
+     height:100px;
+     line-height: 100px;
+      
+      
+  }
+  
+  
+ 
+
+
+  /****************** section1**************/
+
+  .sec2{
+      min-height:400px!important;
+      height: auto;
+  }
+
+  .text1{
+      text-align: center;
+      margin-top:20px;
+  }
+
+  .text2{
+    text-align: center;
+  }
+
+  
+
+.photo1{
+      height: 70px!important;
+      width:70px!important;
+      margin-top:100px!important;
+      
+  }
+
+
+  /****************** section2***************/
+  .w3{
+      height:250px;
+      
+     
+  }
+   .font1{
+       font-size:12px;
+   }
+
+   .photo3{
+       height: 250px!important;
+
+   }
+   .about{
+       height: 100px;
+       font-size:30px;
+       color:gray;
+       font-style: italic;
+
+   }
+
+
+   /************** section3************/
+   .h1{
+       min-height:600px;
+   }
+
+   .bg1{
+    background: url(../images/process-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+   }
+
+
+   /************** cards***********/
+
+  .love {
+    
+    font-size:20px;
+    color:red;
+    margin:5px;
+}
+.comment{
+    font-size:20px;
+    color:rgb(0, 128, 107);
+    margin:5px;
+    
+}
+
+.font2{
+    font-size:17px;
+}
+   
+.bbt{
+    height: 50px;
+    width: 120px;
+}
+
+/******************contact us***********/
+
+.oran{
+    min-height: 200px;
+
+    text-align: center;
+    
+}
+.mar1{
+    padding-top: 20px;
+}
+
+.b3{
+    width:200px;
+}
+
+.team{
+    min-height: 400px;
+}
+
+
+.ruddy{
+   text-align: center;
+   margin-top:150px;
+}
+
+.sizeh{
+    font-size: 40px;
+    margin: 20px!important;
+}
+
+
+.bg111{
+    min-height: 200px;
+    height: auto;
+}
+
+.mar2{
+    margin-top:50px;
+    
+}
+
+.mar3{
+    margin-top:70px;
+}
